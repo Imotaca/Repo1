@@ -5,7 +5,10 @@
       "mcp__Gmail__get_thread",
       "mcp__Gmail__get_message",
       "mcp__Gmail__trash_thread",
-      "mcp__Gmail__send_message"
+      "mcp__Gmail__send_message",
+      "ArtifactData",
+      "ReadNotifications",
+      "ToolSearch"
     ]
   }
 }
