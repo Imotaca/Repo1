@@ -1,0 +1,7 @@
+Routine: "Career Jobs – daily sort + Thursday digest" (daily 6:57 AM America/New_York, Auto mode, Gmail connected)
+Previous version of this routine was "Job alerts cleanup and digest" (trashed alerts older than the current week, digest shown only in its session).
+
+See the live prompt in claude.ai → Routines. Summary of what it does:
+1. Every day: moves all job emails (alerts, recruiters, applications, interviews) from the Inbox to the Gmail label "Career Jobs".
+2. Every day: trashes automated job alerts in "Career Jobs" older than 14 days. Application/interview/offer/recruiter emails are never trashed.
+3. Thursdays: emails a digest of the ~10 most relevant roles from the past week with direct links, plus a "Needs your attention" list.
